@@ -10,13 +10,14 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
+    "react-redux": "^8.0.4",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
   "homepage": "https://AhmadKasem98.github.io/Your-Rate",
   "scripts": {
-    "predepoy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predepoy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

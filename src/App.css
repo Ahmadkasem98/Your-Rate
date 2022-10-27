@@ -15,6 +15,9 @@ body {
   background: var(--mainGrey);
   color: var(--mainBlack);
   font-family: "Roboto", sans-serif;
+  background-image: url("../public/rate.jpg");
+  background-size: cover;
+  z-index: -10;
 }
 h1 {
   text-align: center;
